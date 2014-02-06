@@ -16,12 +16,6 @@
 </item>
 
 <item>
-<title>AXN</title>
-<link>http://m3.megafun.vn/live.vs?c=vstv077&amp;q=high</link>
-<thumbnail>http://2.bp.blogspot.com/-nzY9_B0HCNA/TdraXaKxqkI/AAAAAAAAGSQ/fZFMf8DT8u4/s320/HighResLogo_RGB.jpg</thumbnail>
-</item>
-
-<item>
 <title>TV3</title>
 <link>http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/-YhOfMfADEMQ/T34Y8RA_TBI/AAAAAAAAAr0/QscSkCO34kU/s1600/tv3.jpg</thumbnail>
@@ -55,6 +49,12 @@
 <title>Astro Awani</title>
 <link>http://measatott06-i.akamaihd.net/hls/live/202857/OTT_06/master_01.m3u8</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/ms/e/ee/Astro-awani.jpg</thumbnail>
+</item>
+
+<item>
+<title>AXN</title>
+<link>http://m3.megafun.vn/live.vs?c=vstv077&amp;q=high</link>
+<thumbnail>http://2.bp.blogspot.com/-nzY9_B0HCNA/TdraXaKxqkI/AAAAAAAAGSQ/fZFMf8DT8u4/s320/HighResLogo_RGB.jpg</thumbnail>
 </item>
 
 <item>
