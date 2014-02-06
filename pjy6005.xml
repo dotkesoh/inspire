@@ -1,4 +1,3 @@
-
 <item>
 <title>(((((((((( DotKesoh - Update 6th Feb 2014 ))))))))))</title>
 <link>http://</link>
@@ -14,6 +13,12 @@
 <title>TV2</title>
 <link>http://edge.rtm.swiftserve.com/live/rtm/amlst:rtm-ch003/playlist.m3u8</link>
 <thumbnail></thumbnail>
+</item>
+
+<item>
+<title>AXN</title>
+<link>http://m3.megafun.vn/live.vs?c=vstv077&q=high</link>
+<thumbnail>http://2.bp.blogspot.com/-nzY9_B0HCNA/TdraXaKxqkI/AAAAAAAAGSQ/fZFMf8DT8u4/s320/HighResLogo_RGB.jpg</thumbnail>
 </item>
 
 <item>
