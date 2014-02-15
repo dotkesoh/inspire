@@ -1,5 +1,5 @@
 <item>
-<title>(((((((((( DotKesoh - Update 6th Feb 2014 ))))))))))</title>
+<title>(((((((((( DotKesoh - Update 15th Feb 2014 ))))))))))</title>
 <link>http://</link>
 </item>
 
@@ -58,446 +58,569 @@
 </item>
 
 <item>
+<title>(((((((((( Kids Edutainment ))))))))))</title>
+<link>http://</link>
+<thumbnail></thumbnail>
+
+<item>
 <title>Cartoon Network</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv031&amp;q=high</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/220px-Cartoon_Network_2010_logo.svg.png</thumbnail>
-</item>
  
 <item>
 <title>Disney Channel</title>
 <link>http://m3.megafun.vn/live.vs?c=vstv032&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
  
 <item>
-<title>RedBull TV</title>
-<link>http://live.iphone.redbull.de.edgesuite.net/webtvHD.m3u8</link>
-<thumbnail>http://www.redbull.com/cs/RedBull/RBImages/000/000/816/764/photo470x264/redbulltv.jpg</thumbnail>
+<title>(((((((((( Sport ))))))))))</title>
+<link>http://</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>BT Sport 1</title>
+<link>rtmpe://watch.playfooty.tv/live playpath=bt1desii swfUrl=http://www.playfooty.tv/play/player/player.swf live=1moc pageUrl=http://www.playfooty.tv/</link>
+<thumbnail>http://3.bp.blogspot.com/-d_Io27XWZ_Q/UnAvqq_sBtI/AAAAAAAAAGI/usexmjcZBMw/s1600/bt-sport-1-logo-136381974803413002.gif</thumbnail>
 </item>
 
 <item>
-<title>Star Sport</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv033&amp;q=high</link>
-<thumbnail></thumbnail>
+<title>BT Sport 2</title>
+<link>rtmpe://93.120.27.86/live/btdesi2 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=hqsport04&vw=600&vh=400</link>
+<thumbnail>http://images.atlas.metabroadcast.com/pressassociation.com/channels/p153081.png</thumbnail>
 </item>
 
 <item>
-<title>Animal Planet</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv078&amp;q=high</link>
-<thumbnail></thumbnail>
-</item>
- 
-<item>
-<title>NHK Japan</title>
-<link>http://plslive-w.nhk.or.jp/nhkworld/app/live.m3u8</link>
-<thumbnail></thumbnail>
+<title>Chelsea TV</title>
+<link>rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/sport-stream/1/2650.html timeout=10</link>
+<thumbnail>http://img707.imageshack.us/img707/1757/chelseatv.png</thumbnail>
 </item>
 
 <item>
-<title>KBS 24</title>
-<link>http://news24kbs-2.gscdn.com/news24_800/_definst_/news24_800.stream/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>KCTVN</title>
-<link>http://122.202.129.136:1935/live/ch4/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>KCTV</title>
-<link>http://122.202.129.136:1935/live/ch5/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Arirang TV</title>
-<link>rtmp://175.103.51.2:1935/live/arirangtv.stream</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>HBO</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv036&amp;q=high</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Cinemax</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv037&amp;q=high</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Star Movies</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv038&amp;q=high</link>
-<thumbnail></thumbnail>
+<title>ESPN</title>
+<link>rtmp://46.246.29.159:1935/stream playpath=546yrgv.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php live=1</link>
+<thumbnail>http://www.bbeinc.com/bbe_site/profile/images/client_logos/espn.jpg</thumbnail>
 </item>
 
 <item>
 <title>Fox Sport</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv042&amp;q=high</link>
-<thumbnail></thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-Zl48YHsUU3g/UhO71whueQI/AAAAAAAASZU/sbBM3RqAeog/s1600/images-201240921481.jpeg</thumbnail>
+
+<item>
+<title>Premier Sport</title>
+<link>http://50.7.212.138:1000/udp/239.10.10.8:13713</link>
+<thumbnail>http://media15.tv/img/client-premier-sports.jpg</thumbnail>
 </item>
+
+<item>
+<title>RedBull TV</title>
+<link>http://live.iphone.redbull.de.edgesuite.net/webtvHD.m3u8</link>
+<thumbnail>http://www.redbull.com/cs/RedBull/RBImages/000/000/816/764/photo470x264/redbulltv.jpg</thumbnail>
+
+<item>
+<title>TV3 Sport 2</title>
+<link>http://50.7.212.138:1000/udp/239.10.10.10:13713</link>
+<thumbnail>http://www.doa.dk/images/tv3%20sport%202.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 1</title>
+<link>rtmp://37.220.36.70:443/liverepeater/23697 swfurl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageurl=http://1cdn.filotv.pw/ss1.html token=#atd%#$ZH</link>
+<thumbnail>http://3.bp.blogspot.com/-frEGd7eDz7U/UX5wKvMo9NI/AAAAAAAAGc8/CT4I3qURCW0/s320/images%2B(3).jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 2</title>
+<link>rtmp://37.220.36.68:443/liverepeater/33698 swfurl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageurl=http://1cdn.filotv.pw/ss1.html token=#atd%#$ZH</link>
+<thumbnail>http://1.bp.blogspot.com/-Q5tFvdCIzmE/UYKSiyEMjzI/AAAAAAAAAeI/d42H5zU8pmM/s320/1110.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 3</title>
+<link>rtmp://37.220.36.70:443/liverepeater/23699 swfurl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageurl=http://1cdn.filotv.pw/ss1.html token=#atd%#$ZH</link>
+<thumbnail>http://www.liverealsport.com/wp-content/uploads/2013/12/sky-sports-3-hd-logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 3 (Backup)</title>
+<link>http://50.7.212.138:1000/udp/239.10.10.6:13713</link>
+<thumbnail>http://www.liverealsport.com/wp-content/uploads/2013/12/sky-sports-3-hd-logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport News</title>
+<link>rtmp://37.220.36.70:443/liverepeater/23701 swfurl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageurl=http://1cdn.filotv.pw/ss1.html token=#atd%#$ZH</link>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2008/08/sky-sports-news.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star Sport</title>
+<link>http://m24.megafun.vn/live.vs?c=vstv033&amp;q=high</link>
+<thumbnail>http://www.entertainmentdoor.com.pk/images/channel_image/Star_Sport_tv.jpg</thumbnail>
+
+<item>
+<title>(((((((((( Movie ))))))))))</title>
+<link>http://</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>HBO</title>
+<link>http://m24.megafun.vn/live.vs?c=vstv036&amp;q=high</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>Cinemax</title>
+<link>http://m24.megafun.vn/live.vs?c=vstv037&amp;q=high</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>Star Movies</title>
+<link>http://m24.megafun.vn/live.vs?c=vstv038&amp;q=high</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>(((((((((( Documentary ))))))))))</title>
+<link>http://</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>Animal Planet</title>
+<link>http://m24.megafun.vn/live.vs?c=vstv078&amp;q=high</link>
+<thumbnail></thumbnail>
 
 <item>
 <title>Discovery Channel</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv044&amp;q=high</link>
 <thumbnail></thumbnail>
+ 
+<item>
+<title>(((((((((( TV Show ))))))))))</title>
+<link>http://</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>AXN</title>
+<link>http://m24.megafun.vn/live.vs?c=vstv077&amp;q=high</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>TLC</title>
+<link>http://m24.megafun.vn/live.vs?c=vstv084&amp;q=high</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>Star World</title>
+<link>http://m24.megafun.vn/live.vs?c=vstv039&amp;q=high</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>(((((((((( News ))))))))))</title>
+<link>http://</link>
+<thumbnail></thumbnail>
+ 
+<item>
+<title>ALJAZEERA</title>
+<link>http://hd2.lsops.net/live/aljazeer_en_hls.smil/playlist.m3u8</link>
+<thumbnail>https://www.comm.lsa.umich.edu/blog/wp-content/uploads/2011/03/aljazeera_logo.jpg</thumbnail>
 </item>
+
+<item>
+<title>BBC News</title>
+<link>http://ca-edge-8.cdn2.streamago.tv:80/streamagoedge/1916/809/anjalo_bbc.m3u8</link>
+<thumbnail>http://www.a-w-i-p.com/media/blogs/articles/Articles29/BRI_bbc_logo_85.jpg</thumbnail>
+</item>
+
+<item>
+<title>CHANNEL NEWSASIA</title>
+<link>http://cna.lsops.net/live/cna_en_hls.smil/playlist.m3u8</link>
+<thumbnail>http://mumbrella.asia/content/uploads/2013/07/Picture-82.png</thumbnail>
+</item>
+
+<item>
+<title>CNC</title>
+<link>http://cnc.lsops.net/live/cnc_en_hls.smil/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cnc_world_news.jpg</thumbnail>
+</item>
+
+<item>
+<title>DW-TV</title>
+<link>http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8</link>
+<thumbnail>http://mediacenter.dw.de/cssi/dwlogo-print.gif</thumbnail>
+</item>
+
+<item>
+<title>ENCA</title>
+<link>http://hd7.lsops.net/live/enca_en_hls.smil/playlist.m3u8</link>
+<thumbnail>http://enca.com/sites/files/logo_1.png</thumbnail>
+</item>
+
+<item>
+<title>EURO NEWS</title>
+<link>http://hd1.lsops.net/live/euronews_en.smil/playlist.m3u8</link>
+<thumbnail>http://a406.idata.over-blog.com/300x206/3/91/63/93/Logos/Euronews03OK_RVB.JPG</thumbnail>
+</item>
+
+<item>
+<title>FRANCE 24</title>
+<link>http://hd7.lsops.net/live/france24_en_hls.smil/playlist.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/200px-FRANCE_24_logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>(((((((((( MTV ))))))))))</title>
+<link>http://</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>Channel V</title>
+<link>http://m24.megafun.vn/live.vs?c=vstv043&amp;q=high</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>MTV Vietnam</title>
+<link>http://m24.megafun.vn/live.vs?c=vstv040&amp;q=high</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>Vevo HD</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Vevo HD 2</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Vevo HD 3</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>
+<title>(((((((((( Foreign Channel ))))))))))</title>
+<link>http://</link>
+<thumbnail></thumbnail>
+ 
+<item>
+<title>NHK Japan</title>
+<link>http://plslive-w.nhk.or.jp/nhkworld/app/live.m3u8</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>KBS 24</title>
+<link>http://news24kbs-2.gscdn.com/news24_800/_definst_/news24_800.stream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>KCTVN</title>
+<link>http://122.202.129.136:1935/live/ch4/playlist.m3u8</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>KCTV</title>
+<link>http://122.202.129.136:1935/live/ch5/playlist.m3u8</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>Arirang TV</title>
+<link>rtmp://175.103.51.2:1935/live/arirangtv.stream</link>
+<thumbnail></thumbnail>
 
 <item>
 <title>HTV 2</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv001&amp;q=high</link>
+<link>http://m24.megafun.vn/live.vs?c=vstv001&amp;q=high
+</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>VTV 1</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv002&amp;q=high</link>
+<link>http://m24.megafun.vn/live.vs?c=vstv002&amp;q=high
+</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>Today</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv003&amp;q=high</link>
+<link>http://m24.megafun.vn/live.vs?c=vstv003&amp;q=high
+</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>VTV 3</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv004&amp;q=high</link>
+<link>http://m24.megafun.vn/live.vs?c=vstv004&amp;q=high
+</link>
 <thumbnail></thumbnail>
 
 <item>
 <title>?</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv005&amp;q=high</link>
+<link>http://m24.megafun.vn/live.vs?c=vstv005&amp;q=high
+</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>HTV 9</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv009&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>VTC 9</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv010&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>H1</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv011&amp;q=high
 </link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>H2</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv012&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>VTV 6</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv014&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>HTV 7</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv015&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>VTV 2</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv017&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>THVL2</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv030&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>O2TV</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv034&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>VTV 4</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv035&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
-<item>
-<title>MTV Viet</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv040&amp;q=high</link>
-<thumbnail></thumbnail>
-</item>
+
 
 <item>
 <title>Fashion TV</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv041&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
-<item>
-<title>Channel V</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv043&amp;q=high</link>
-<thumbnail></thumbnail>
-</item>
+
 
 <item>
 <title>VTV 5</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv045&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>3NTV</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv046&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>VTC 3 Sport</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv047&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>HTVC</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv048&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>VT14</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv049&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>VT11</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv050&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>TV6</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv051&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>TTXVN</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv052&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>ANTV</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv053&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>itv VTC 13</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv054&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>Net Viet</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv055&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>NTV</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv056&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>BTV 1</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv057&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>TVHL 1</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv058&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>DNRTV1</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv059&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>VTV6</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv060&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>DRT2</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv062&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>THTG</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv063&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>TTV11</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv064&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>ATV</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv066&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>BTV</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv067&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>VP</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv068&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>?</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv069&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>PN</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv070&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>NTV</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv071&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>MTV</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv072&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>GIA</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv073&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>HTV1</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv074&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>HTV3</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv075&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>?</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv076&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>?</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv080&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>BTV2</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv081&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>HCTV</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv086&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>HCTV?</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv087&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>HITV</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv088&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>HTV4</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv089&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>QPVN</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv091&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>TV5 Monde</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv094&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>VOV</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv095&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>true versions</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv096&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
 <item>
 <title>VITV</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv097&amp;q=high</link>
 <thumbnail></thumbnail>
-</item>
 
